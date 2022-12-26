@@ -26,7 +26,7 @@ BOARD_TEMPLATE = """
  |{}{}{}{}{}{}{}|
  +-------+"""
 
- def main():
+def main():
  	"""Runs a single game of Four-in-a-Row."""
  	print(
  		"""Four-in-a-Row, by Al Sweigart al@inventwithpython.com
